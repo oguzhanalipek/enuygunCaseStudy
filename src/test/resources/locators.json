@@ -1,0 +1,153 @@
+[
+  {
+    "key": "CerezleriKabulEtButonu",
+    "value": "button[id='onetrust-accept-btn-handler']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiNeredenInput",
+    "value": "input[data-testid='endesign-flight-origin-autosuggestion-input']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiNereyeInput",
+    "value": "input[data-testid='endesign-flight-destination-autosuggestion-input']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiGidisTarihInput",
+    "value": "input[data-testid='enuygun-homepage-flight-departureDate-datepicker-input'",
+    "type": "css"
+  },
+  {
+    "key": "UcakBiletiTakvimAktifGunlerButon",
+    "value": "button[data-testid='datepicker-active-day']",
+    "type": "css"
+  },
+  {
+    "key": "UcakBiletiGidisTarihiTakvimSonrakiAylarButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-departureDate-month-forward-button']",
+    "type": "css"
+  },
+  {
+    "key": "UcakBiletiDonusTarihiTakvimSonrakiAylarButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-returnDate-month-forward-button']",
+    "type": "css"
+  },
+  {
+    "key": "UcakBiletiGidisTarihiTakvimOncekiAylarButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-departureDate-month-back-button']",
+    "type": "css"
+  },
+  {
+    "key": "UcakBiletiDonusTarihiTakvimOncekiAylarButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-returnDate-month-back-button']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiDonusTarihEkleLabel",
+    "value": "label[data-testid='enuygun-homepage-flight-returnDate-input-comp']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiAktarmasizCheckbox",
+    "value": "label[data-testid='flight-oneWayCheckbox-label'][aria-describedby='Aktarmasız']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiYolcuSayisiKabinLabel",
+    "value": "//div[contains(text(),'Yolcu Sayısı')]/parent::div/parent::label",
+    "type": "xpath"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiYetiskinYolcuSayisi",
+    "value": "div[data-testid='flight-adult-counter-count']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiYetiskinYolcuSayisiArttirButonu",
+    "value": "button[data-testid='flight-adult-counter-plus-button']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiCocukYolcuSayisi",
+    "value": "div[data-testid='flight-child-counter-count']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiCocukYolcuSayisiArttirButonu",
+    "value": "button[data-testid='flight-child-counter-plus-button']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiBebekYolcuSayisi",
+    "value": "div[data-testid='flight-infant-counter-count']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiBebekYolcuSayisiArttirButonu",
+    "value": "button[data-testid='flight-infant-counter-plus-button']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiEkonomiKabinButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-ekonomiCabin']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiBusinessKabinButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-businessCabin']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiPremiumEkonomiKabinButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-comfortCabin']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiFirstClassKabinButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-firstCabin']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiTamamButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-doneBtn']",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiUcuzBiletBulButonu",
+    "value": "button[data-testid='enuygun-homepage-flight-submitButton']",
+    "type": "css"
+  },
+  {
+    "key": "UcuslarinizHazirlaniyorMesaji",
+    "value": "div[class='card-top']>span",
+    "type": "css"
+  },
+  {
+    "key": "AramaSonucuSayfasi",
+    "value": "SearchRoot",
+    "type": "id"
+  },
+  {
+    "key": "UcusListesiKayitlari",
+    "value": "div[class='flight-list-body']>div",
+    "type": "css"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiSekmeButonu",
+    "value": "//span[contains(text(),'Uçak bileti')]/parent::div/parent::button",
+    "type": "xpath"
+  },
+  {
+    "key": "AnaSayfaUcakBiletiGidisDonusRadioButton",
+    "value": "label[data-testid='search-round-trip-label']",
+    "type": "css"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]
+

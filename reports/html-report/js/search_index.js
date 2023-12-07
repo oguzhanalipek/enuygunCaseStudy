@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Quality Assurance Engineer Case Study":["specs/caseStudy.html"]}};

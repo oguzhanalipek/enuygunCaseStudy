@@ -1,0 +1,50 @@
+# EnUygun.com Ana Sayfasinda olundugu dogrulanir
+* Su anki URL "https://www.enuygun.com/" degerine esit mi kontrol et
+
+# Cerezler kabul edilir
+* "CerezleriKabulEtButonu" elementine tikla
+
+# Ana Sayfada Ucak bileti sekmesine tiklanir
+* "AnaSayfaUcakBiletiSekmeButonu" elementine tikla
+
+# Ana Sayfada Ucak bileti sekmesinde Gidis-Donus butonuna tiklanir
+* "AnaSayfaUcakBiletiGidisDonusRadioButton" elementine tikla
+
+# Ana Sayfada Ucak bileti sekmesinde kalkis noktasi <Nereden> ve varis noktasi icin <Nereye> konumu secilir
+* "AnaSayfaUcakBiletiNeredenInput" elementine <Nereden> degerini yaz
+* "AnaSayfaUcakBiletiNeredenInput" elementine ENTER keyi yolla
+* "AnaSayfaUcakBiletiNereyeInput" elementine <Nereye> degerini yaz
+* "AnaSayfaUcakBiletiNereyeInput" elementine ENTER keyi yolla
+
+# Ana Sayfada Ucak bileti sekmesinde ileri tarihli gidis ve donus tarihi secilir
+* "AnaSayfaUcakBiletiGidisTarihInput" elementine tikla
+* "UcakBiletiGidisTarihiTakvimSonrakiAylarButonu" elementine tikla
+* "UcakBiletiTakvimAktifGunlerButon" elementinin oldugu dogrulanir
+* "UcakBiletiTakvimAktifGunlerButon" elementine tikla
+* "AnaSayfaUcakBiletiDonusTarihEkleLabel" elementine tikla
+* "UcakBiletiTakvimAktifGunlerButon" elementinin oldugu dogrulanir
+* "UcakBiletiTakvimAktifGunlerButon" elementlerinden sonuncusuna tikla
+
+# Ana Sayfada Ucak bileti sekmesinde Aktarmasiz secenegi secilir
+* "AnaSayfaUcakBiletiAktarmasizCheckbox" elementine tikla
+
+# Ana Sayfada Ucak bileti sekmesinde yetiskin yolcu sayisi <yetiskinYolcuSayisi>, cocuk sayisi <cocukYolcuSayisi>, bebek sayisi <bebekYolcuSayisi> secilir
+* "AnaSayfaUcakBiletiYolcuSayisiKabinLabel" elementine tikla
+* "AnaSayfaUcakBiletiYetiskinYolcuSayisi" elementinin degeri <yetiskinYolcuSayisi> degerine esit olana kadar "AnaSayfaUcakBiletiYetiskinYolcuSayisiArttirButonu" elementine tikla
+* "AnaSayfaUcakBiletiCocukYolcuSayisi" elementinin degeri <cocukYolcuSayisi> degerine esit olana kadar "AnaSayfaUcakBiletiCocukYolcuSayisiArttirButonu" elementine tikla
+* "AnaSayfaUcakBiletiBebekYolcuSayisi" elementinin degeri <bebekYolcuSayisi> degerine esit olana kadar "AnaSayfaUcakBiletiBebekYolcuSayisiArttirButonu" elementine tikla
+
+# Ana Sayfada Ucak bileti sekmesinde Business kabin secilir
+* "AnaSayfaUcakBiletiBusinessKabinButonu" elementine tikla
+* "AnaSayfaUcakBiletiTamamButonu" elementine tikla
+
+# Ana Sayfada Ucak bileti sekmesinde Ucuz bilet bul butonuna tiklanir
+* "AnaSayfaUcakBiletiUcuzBiletBulButonu" elementine tikla
+* "UcuslarinizHazirlaniyorMesaji" elementi kaybolana kadar bekle
+
+# Arama sonucu sayfasinda olundugu ve ucus kayitlarinin listelendigi dogrulanir
+* "AramaSonucuSayfasi" elementinin oldugu dogrulanir
+* "UcusListesiKayitlari" elementlerinin oldugu dogrulanir
+
+# Ana Sayfada Ucak bileti sekmesinde kalkis ve varis noktalari tablodaki veriler kullanarak secilir <Kalkis> <Varis>
+* Tablodaki verilerle "AnaSayfaUcakBiletiNeredenInput" ve "AnaSayfaUcakBiletiNereyeInput" elementlerine parametrik veri girisi yapilir: <Kalkis> <Varis>
